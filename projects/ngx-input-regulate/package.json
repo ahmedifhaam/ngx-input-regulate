@@ -1,7 +1,16 @@
 {
   "name": "ngx-input-regulate",
   "author": {"name": "Ahmed Ifhaam", "email": "ahmedifhaam1@gmail.com"},
-  "version": "0.0.1",
+  "version": "0.0.4",
+  "keywords": [
+    "angular",
+    "reactiveform",
+    "input",
+    "regulate",
+    "restrict",
+    "copy",
+    "stop"
+  ],
   "peerDependencies": {
     "@angular/common": "^12.0.5",
     "@angular/core": "^12.0.5"
